@@ -1,0 +1,11 @@
+lines (10 sloc) 181 Bytes
+discord.py==1.6.0
+requests==2.25.1
+instatools3==0.0.1
+google_search==1.1.1
+dpymenus==1.3.1
+dataclasses==0.8
+discord==1.0.1
+python-dotenv==0.17.1
+tinydb==4.4.0
+
